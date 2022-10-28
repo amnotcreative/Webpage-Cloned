@@ -1,0 +1,150 @@
+.p-trial.body {
+display: flex;
+align-items: center;
+justify-content: center;
+box-sizing: border-box;
+background-color: #e28686;
+height: 120vh;
+flex-direction: column;
+}
+.p-trial.Flex28 {
+display: flex;
+align-items: center;
+justify-content: center;
+align-content: space-around;
+align-self: center;
+width: 100%;
+background-color: #ffffff;
+flex-direction: row;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-left: 15px;
+padding-right: 15px;
+height: %;
+overflow: visible;
+box-sizing: border-box;
+}
+.p-trial.Div36 {
+width: 50%;
+align-self: center;
+display: contents;
+}
+.p-trial.Div37 {
+width: 50%;
+align-self: center;
+background-color: #ffffff;
+clear: right;
+}
+.p-trial.Flex30 {
+display: flex;
+background-color: #ffffff;
+height: 100%;
+width: 100%;
+justify-content: space-between;
+align-items: center;
+align-content: stretch;
+overflow: visible;
+flex-direction: column;
+align-self: auto;
+}
+.p-trial.Div39 {
+background-color: #ffffff;
+width: 60%;
+display: block;
+align-self: center;
+box-sizing: border-box;
+margin-left: 20px;
+}
+.p-trial.Image31 {
+align-self: auto;
+margin-left: 20px;
+padding-left: ;
+}
+.p-trial.Dropdown8 {
+align-self: center;
+position: relative;
+font-family: Varela Round;
+font-size: 18px;
+outline-width: 0px;
+outline-color: transparent;
+border-color: transparent;
+}
+.p-trial.TextBox62 {
+width: 8vw;
+height: 20px;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 0px;
+margin-right: 0px;
+font-family: Varela Round;
+font-weight: normal;
+font-size: 18px;
+float: left;
+align-self: center;
+}
+.p-trial.TextBox63 {
+width: 8vw;
+height: 20px;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 0px;
+margin-right: 0px;
+font-family: Varela Round;
+font-weight: normal;
+font-size: 18px;
+float: left;
+align-self: center;
+}
+.p-trial.TextBox64 {
+width: 8vw;
+height: 20px;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 0px;
+margin-right: 0px;
+font-family: Varela Round;
+font-weight: normal;
+font-size: 18px;
+margin-left: 60px;
+float: left;
+align-self: center;
+}
+.p-trial.Image32 {
+max-width: 100%;
+align-self: center;
+}
+.p-trial.TextBox69 {
+font-family: Varela Round;
+font-size: 30px;
+text-align: center;
+margin-top: 80px;
+margin-bottom: 50px;
+}
+.p-trial.Image34 {
+;
+}
+.p-trial.TextBox67 {
+font-family: IBM Plex Sans;
+font-size: 20px;
+margin-top: 30px;
+}
+.p-trial.TextBox68 {
+font-family: IBM Plex Sans;
+font-size: 40px;
+}
+@media screen and (max-width: 991px) {	.p-trial.Flex28 {width: 100%;
+background-color: #ffffff;
+}
+	.p-trial.Div37 {background-color: #ffffff;
+}
+	.p-trial.Image31 {align-self: center;
+}
+	.p-trial.Dropdown8 {align-self: center;
+}
+	.p-trial.TextBox62 {align-self: center;
+}
+	.p-trial.TextBox63 {align-self: center;
+}
+	.p-trial.TextBox64 {align-self: center;
+}
+}

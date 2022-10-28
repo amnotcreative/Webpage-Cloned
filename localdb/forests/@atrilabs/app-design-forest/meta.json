@@ -1,0 +1,19 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    },
+    "51b95135-d0f1-4970-9aff-5372383f3c95": {
+      "name": "Assignment",
+      "id": "51b95135-d0f1-4970-9aff-5372383f3c95",
+      "parentId": "root"
+    }
+  },
+  "pages": {
+    "home": "root",
+    "45b82a23-60b4-4f28-a007-b1db994f88d9": "51b95135-d0f1-4970-9aff-5372383f3c95",
+    "e3738040-0b43-412e-ae80-f0f8df8d2770": "51b95135-d0f1-4970-9aff-5372383f3c95"
+  }
+}

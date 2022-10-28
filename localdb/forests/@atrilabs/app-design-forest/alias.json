@@ -1,0 +1,14 @@
+{
+  "BarChart": 1,
+  "Flex": 200,
+  "Menu": 2,
+  "Div": 193,
+  "Button": 2,
+  "TextBox": 400,
+  "Accordion": 2,
+  "Dropdown": 10,
+  "Upload": 1,
+  "Image": 174,
+  "LineChart": 1,
+  "Slider": 1
+}

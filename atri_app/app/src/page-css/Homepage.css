@@ -1,0 +1,111 @@
+.p-Homepage.Div12 {
+width: 100%;
+height: 100%;
+background-color: #f08686;
+overflow: hidden;
+box-sizing: border-box;
+background-clip: border-box;
+-webkit-background-clip: border-box;
+}
+.p-Homepage.Flex5 {
+display: flex;
+align-items: center;
+justify-content: center;
+align-content: space-around;
+align-self: center;
+width: 100%;
+background-color: #ffffff;
+flex-direction: row;
+padding-top: 25px;
+padding-bottom: 25px;
+padding-left: 15px;
+padding-right: 15px;
+height: %;
+overflow: visible;
+box-sizing: border-box;
+}
+.p-Homepage.Div13 {
+width: 50%;
+align-self: center;
+display: contents;
+}
+.p-Homepage.Div14 {
+width: 50%;
+align-self: center;
+background-color: #ffffff;
+clear: right;
+}
+.p-Homepage.Image8 {
+align-self: auto;
+margin-left: 20px;
+padding-left: ;
+}
+.p-Homepage.Dropdown5 {
+align-self: center;
+position: relative;
+font-family: Varela Round;
+font-size: 18px;
+outline-width: 0px;
+outline-color: transparent;
+border-color: transparent;
+}
+.p-Homepage.TextBox15 {
+width: 8vw;
+height: 20px;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 0px;
+margin-right: 0px;
+font-family: Varela Round;
+font-weight: normal;
+font-size: 18px;
+float: left;
+align-self: center;
+}
+.p-Homepage.TextBox16 {
+width: 8vw;
+height: 20px;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 0px;
+margin-right: 0px;
+font-family: Varela Round;
+font-weight: normal;
+font-size: 18px;
+float: left;
+align-self: center;
+}
+.p-Homepage.TextBox17 {
+width: 8vw;
+height: 20px;
+margin-top: 0px;
+padding-top: 0px;
+padding-left: 0px;
+margin-right: 0px;
+font-family: Varela Round;
+font-weight: normal;
+font-size: 18px;
+margin-left: 60px;
+float: left;
+align-self: center;
+}
+.p-Homepage.Image9 {
+max-width: 100%;
+align-self: center;
+}
+@media screen and (max-width: 991px) {	.p-Homepage.Flex5 {width: 100%;
+background-color: #ffffff;
+}
+	.p-Homepage.Div14 {background-color: #ffffff;
+}
+	.p-Homepage.Image8 {align-self: center;
+}
+	.p-Homepage.Dropdown5 {align-self: center;
+}
+	.p-Homepage.TextBox15 {align-self: center;
+}
+	.p-Homepage.TextBox16 {align-self: center;
+}
+	.p-Homepage.TextBox17 {align-self: center;
+}
+}

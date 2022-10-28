@@ -1,0 +1,14 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "45b82a23-60b4-4f28-a007-b1db994f88d9": {
+    "name": "Homepage",
+    "route": "/Assignment/Homepage"
+  },
+  "e3738040-0b43-412e-ae80-f0f8df8d2770": {
+    "name": "trial",
+    "route": "/Assignment/trial"
+  }
+}
